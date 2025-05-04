@@ -5,7 +5,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}
 
-baseurl: "/conflict_urbanism_sp2025" # the subpath of your site, replace with the name of the github repository where you will host your site
+baseurl: "/conflict_urbanism_sp2025_Woosek-Yeonjin" # the subpath of your site, replace with the name of the github repository where you will host your site
 url: "https://centerforspatialresearch.github.io/conflict_urbanism_sp2025/" # the base hostname & protocol for your site, e.g. http://github-username.io
 
 title: Incomplete Democracy: Mapping Protest as New Indicators of Political Sentiment
